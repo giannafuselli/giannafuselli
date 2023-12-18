@@ -3,7 +3,7 @@
 
 - 📫 How to reach me *fuselligianna@gmail.com*
 
-- 🌐 Languages/Lenguajes * Spanish (native)*
+- 🌐 Languages/Lenguajes * Spanish (native) English (C1)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
