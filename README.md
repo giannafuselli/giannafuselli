@@ -1,5 +1,5 @@
 <h1 align="center">Hi/Buenas 👋, I'm Gianna Fuselli </h1>
-<h3 align="center">A fullstack developer in progress/ Un fullstack developer en progreso</h3>
+<h3 align="center">Fullstack developer </h3>
 
 - 📫 How to reach me *fuselligianna@gmail.com*
 
